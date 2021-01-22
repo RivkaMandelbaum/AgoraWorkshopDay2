@@ -1,0 +1,15 @@
+#elements{
+    display: flex; 
+    flex-direction: row; 
+}
+
+.output-space{
+    flex: auto; 
+    width: fit-content; 
+    border: 1px black; 
+}
+
+.output { 
+    border: 1px black; 
+    font-weight: bold;
+}
